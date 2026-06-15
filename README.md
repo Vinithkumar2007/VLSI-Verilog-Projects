@@ -14,7 +14,7 @@
 | 01 | Half Adder | Combinational | ✅ Done |
 | 02 | Full Adder | Combinational | ✅ Done|
 | 03 | Half Subtractor | Combinational | ✅ Done |
-| 04 | Full Subtractor | Combinational | 🔜 Coming |
+| 04 | Full Subtractor | Combinational | ✅ Done |
 | 05 | 4:1 MUX | Combinational | 🔜 Coming |
 | 06 | D Flip-Flop | Sequential | 🔜 Coming |
 
