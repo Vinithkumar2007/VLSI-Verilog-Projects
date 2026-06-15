@@ -12,10 +12,11 @@
 | # | Module | Type | Status |
 |---|--------|------|--------|
 | 01 | Half Adder | Combinational | ✅ Done |
-| 02 | Full Adder | Combinational | 🔜 Coming |
-| 03 | Full Subtractor | Combinational | 🔜 Coming |
-| 04 | 4:1 MUX | Combinational | 🔜 Coming |
-| 05 | D Flip-Flop | Sequential | 🔜 Coming |
+| 02 | Full Adder | Combinational | ✅ Done|
+| 03 | Half Subtractor | Combinational | ✅ Done |
+| 04 | Full Subtractor | Combinational | 🔜 Coming |
+| 05 | 4:1 MUX | Combinational | 🔜 Coming |
+| 06 | D Flip-Flop | Sequential | 🔜 Coming |
 
 ---
 
