@@ -15,8 +15,9 @@
 | 02 | Full Adder | Combinational | ✅ Done|
 | 03 | Half Subtractor | Combinational | ✅ Done |
 | 04 | Full Subtractor | Combinational | ✅ Done |
-| 05 | 4:1 MUX | Combinational | 🔜 Coming |
-| 06 | D Flip-Flop | Sequential | 🔜 Coming |
+| 05 | Ripple Carry Adder | Combinational | ✅ Done |
+| 06 | 4:1 MUX | Combinational | 🔜 Coming |
+| 07 | D Flip-Flop | Sequential | 🔜 Coming |
 
 ---
 
